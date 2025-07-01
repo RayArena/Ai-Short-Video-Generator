@@ -1,6 +1,6 @@
 'use client';
 import { Plus } from "lucide-react";
-import { Button } from "../../components/ui/button";
+import { Button } from "../../@/components/ui/button";
 import React, { useState } from "react";
 import EmptyState from "./_components/EmptyState";
 import Link from "next/link";
